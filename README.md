@@ -19,5 +19,5 @@ This is a Flask application that calculates the average weekly weight loss based
 
 ### Prerequisites
 
-- Python 3.9 or higher
+- Python 3.12.4 or higher
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
